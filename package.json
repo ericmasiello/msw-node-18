@@ -1,0 +1,19 @@
+{
+  "name": "msw-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "Eric Masiello <eric.j.masiello@gmail.com> (http://synbydesign.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "msw": "^0.47.0",
+    "vitest": "^0.22.1"
+  },
+  "devDependencies": {
+    "jsdom": "^20.0.0"
+  }
+}
